@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  convertisseur
+
+  Created by Mattias on 05/02/2020.
+  Copyright © 2020 Mattias. All rights reserved.
+*/
+
+"devise_title"="Devises";
+"convert_to"="Convertir %@ en %@";
